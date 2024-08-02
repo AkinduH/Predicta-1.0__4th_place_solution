@@ -48,6 +48,8 @@ The Prophet model achieved superior performance compared to the other models, ef
 The Prophet model emerged as the most effective solution for the time series prediction task, demonstrating the lowest RMSE and accurately capturing the temperature trends. While the GradientBoostedTreesModel and CatBoostRegressor also performed well, the Prophet model's ability to integrate seasonal trends and external regressors made it the best choice for this particular dataset.
 
 
+
+
 ## Classification Problem (Question 2)
 
 ### Algorithm Selection:
