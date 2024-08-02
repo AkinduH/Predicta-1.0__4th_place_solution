@@ -88,3 +88,8 @@ LGBMClassifier: Accuracy on test data = 79.17%, Precision = 0.7907, Recall = 0.7
 
 ### Conclusion:
 The Gradient Boosting Classifier achieved the highest accuracy for the classification task, but the potential overfitting suggests that further regularization or validation techniques might be necessary. The LGBMClassifier provided a strong balance of performance metrics, making it a reliable choice for practical deployment. Both the XGBClassifier and LGBMClassifier demonstrated robustness and effectiveness, while the Support Vector Machine requires further optimization to be competitive.
+
+# Final Leaderboard
+
+![1722317609723](https://github.com/user-attachments/assets/773a9afb-e990-4432-bbbb-3eada6f16470)
+
